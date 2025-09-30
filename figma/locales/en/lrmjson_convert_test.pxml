@@ -12,4 +12,22 @@
     <SID>test_Buildyou_2</SID>
     <value><![CDATA[Build your own team library]]></value>
   </string>
+  <string translate="1" segmentID="3" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Buildyou_2</SID>
+    <value><![CDATA[Build your own team library]]></value>
+  </string>
+  <string translate="1" segmentID="4" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Buildyou_2</SID>
+    <value><![CDATA[Build your own team library]]></value>
+  </string>
+  <string translate="1" segmentID="5" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Contactm_3</SID>
+    <value><![CDATA[Contact me]]></value>
+  </string>
 </resources>
