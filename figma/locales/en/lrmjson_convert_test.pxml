@@ -144,4 +144,34 @@
     <SID>test_Lastname_5</SID>
     <value><![CDATA[Last name]]></value>
   </string>
+  <string translate="1" segmentID="25" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Buildyou_2</SID>
+    <value><![CDATA[Build your own team library]]></value>
+  </string>
+  <string translate="1" segmentID="26" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Contactm_3</SID>
+    <value><![CDATA[Contact me]]></value>
+  </string>
+  <string translate="1" segmentID="27" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_About_4</SID>
+    <value><![CDATA[About]]></value>
+  </string>
+  <string translate="1" segmentID="28" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Lastname_5</SID>
+    <value><![CDATA[Last name]]></value>
+  </string>
+  <string translate="1" segmentID="29" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Firstnam_6</SID>
+    <value><![CDATA[First name]]></value>
+  </string>
 </resources>
