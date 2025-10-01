@@ -12,4 +12,34 @@
     <SID>test_About_13</SID>
     <value><![CDATA[About]]></value>
   </string>
+  <string translate="1" segmentID="3" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_start_12</SID>
+    <value><![CDATA[start]]></value>
+  </string>
+  <string translate="1" segmentID="4" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_About_13</SID>
+    <value><![CDATA[About]]></value>
+  </string>
+  <string translate="1" segmentID="5" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_start_12</SID>
+    <value><![CDATA[start]]></value>
+  </string>
+  <string translate="1" segmentID="6" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_About_13</SID>
+    <value><![CDATA[About]]></value>
+  </string>
+  <string translate="1" segmentID="7" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Subheadi_14</SID>
+    <value><![CDATA[Subheading for description or instructions]]></value>
+  </string>
 </resources>
