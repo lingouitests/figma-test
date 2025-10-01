@@ -624,4 +624,130 @@
     <SID>test_Shop_20</SID>
     <value><![CDATA[Shop]]></value>
   </string>
+  <string translate="1" segmentID="105" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_start_12</SID>
+    <value><![CDATA[start]]></value>
+  </string>
+  <string translate="1" segmentID="106" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_About_13</SID>
+    <value><![CDATA[About]]></value>
+  </string>
+  <string translate="1" segmentID="107" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Subheadi_14</SID>
+    <value><![CDATA[Subheading for description or instructions]]></value>
+  </string>
+  <string translate="1" segmentID="108" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Emailadd_15</SID>
+    <value><![CDATA[Email address]]></value>
+  </string>
+  <string translate="1" segmentID="109" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Yourmess_16</SID>
+    <value><![CDATA[Your message]]></value>
+  </string>
+  <string translate="1" segmentID="110" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Bodytext_17</SID>
+    <value><![CDATA[Body text for your whole article or post. We’ll put in some lorem ipsum to show how a filled-out page might look:]]></value>
+  </string>
+  <string translate="1" segmentID="111" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID></SID>
+    <value><![CDATA[Excepteur efficient emerging, minim veniam anim aute carefully curated Ginza conversation exquisite perfect nostrud nisi intricate Content. Qui  international first-class nulla ut. Punctual adipisicing, essential lovely queen tempor eiusmod irure. Exclusive izakaya charming Scandinavian impeccable aute quality of life soft power pariatur Melbourne occaecat discerning. Qui wardrobe aliquip, et Porter destination Toto remarkable officia Helsinki excepteur Basset hound. Zürich sleepy perfect consectetur.]]></value>
+  </string>
+  <string translate="1" segmentID="112" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Firstnam_18</SID>
+    <value><![CDATA[First name]]></value>
+  </string>
+  <string translate="1" segmentID="113" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Lastname_19</SID>
+    <value><![CDATA[Last name]]></value>
+  </string>
+  <string translate="1" segmentID="114" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Shop_20</SID>
+    <value><![CDATA[Shop]]></value>
+  </string>
+  <string translate="1" segmentID="115" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_start_12</SID>
+    <value><![CDATA[start]]></value>
+  </string>
+  <string translate="1" segmentID="116" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_About_13</SID>
+    <value><![CDATA[About]]></value>
+  </string>
+  <string translate="1" segmentID="117" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Subheadi_14</SID>
+    <value><![CDATA[Subheading for description or instructions]]></value>
+  </string>
+  <string translate="1" segmentID="118" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Emailadd_15</SID>
+    <value><![CDATA[Email address]]></value>
+  </string>
+  <string translate="1" segmentID="119" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Yourmess_16</SID>
+    <value><![CDATA[Your message]]></value>
+  </string>
+  <string translate="1" segmentID="120" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Bodytext_17</SID>
+    <value><![CDATA[Body text for your whole article or post. We’ll put in some lorem ipsum to show how a filled-out page might look:]]></value>
+  </string>
+  <string translate="1" segmentID="121" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID></SID>
+    <value><![CDATA[Excepteur efficient emerging, minim veniam anim aute carefully curated Ginza conversation exquisite perfect nostrud nisi intricate Content. Qui  international first-class nulla ut. Punctual adipisicing, essential lovely queen tempor eiusmod irure. Exclusive izakaya charming Scandinavian impeccable aute quality of life soft power pariatur Melbourne occaecat discerning. Qui wardrobe aliquip, et Porter destination Toto remarkable officia Helsinki excepteur Basset hound. Zürich sleepy perfect consectetur.]]></value>
+  </string>
+  <string translate="1" segmentID="122" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Firstnam_18</SID>
+    <value><![CDATA[First name]]></value>
+  </string>
+  <string translate="1" segmentID="123" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Lastname_19</SID>
+    <value><![CDATA[Last name]]></value>
+  </string>
+  <string translate="1" segmentID="124" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Shop_20</SID>
+    <value><![CDATA[Shop]]></value>
+  </string>
+  <string translate="1" segmentID="125" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Newstand_21</SID>
+    <value><![CDATA[Newstand]]></value>
+  </string>
 </resources>
