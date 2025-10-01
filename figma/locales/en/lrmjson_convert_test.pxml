@@ -120,4 +120,34 @@
     <SID>test_Emailadd_11</SID>
     <value><![CDATA[Email address]]></value>
   </string>
+  <string translate="1" segmentID="21" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_start_7</SID>
+    <value><![CDATA[start]]></value>
+  </string>
+  <string translate="1" segmentID="22" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Sitename_8</SID>
+    <value><![CDATA[Site name]]></value>
+  </string>
+  <string translate="1" segmentID="23" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Enteryou_9</SID>
+    <value><![CDATA[Enter your question or message]]></value>
+  </string>
+  <string translate="1" segmentID="24" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Subheadi_10</SID>
+    <value><![CDATA[Subheading for description or instructions]]></value>
+  </string>
+  <string translate="1" segmentID="25" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Emailadd_11</SID>
+    <value><![CDATA[Email address]]></value>
+  </string>
 </resources>
