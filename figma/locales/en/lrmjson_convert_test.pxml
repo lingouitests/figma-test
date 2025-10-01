@@ -42,4 +42,46 @@
     <SID>test_Subheadi_14</SID>
     <value><![CDATA[Subheading for description or instructions]]></value>
   </string>
+  <string translate="1" segmentID="8" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_start_12</SID>
+    <value><![CDATA[start]]></value>
+  </string>
+  <string translate="1" segmentID="9" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_About_13</SID>
+    <value><![CDATA[About]]></value>
+  </string>
+  <string translate="1" segmentID="10" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Subheadi_14</SID>
+    <value><![CDATA[Subheading for description or instructions]]></value>
+  </string>
+  <string translate="1" segmentID="11" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_start_12</SID>
+    <value><![CDATA[start]]></value>
+  </string>
+  <string translate="1" segmentID="12" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_About_13</SID>
+    <value><![CDATA[About]]></value>
+  </string>
+  <string translate="1" segmentID="13" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Subheadi_14</SID>
+    <value><![CDATA[Subheading for description or instructions]]></value>
+  </string>
+  <string translate="1" segmentID="14" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Emailadd_15</SID>
+    <value><![CDATA[Email address]]></value>
+  </string>
 </resources>
