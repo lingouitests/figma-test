@@ -18,4 +18,10 @@
     <SID>myPrefix_next_mySuffix</SID>
     <value><![CDATA[next]]></value>
   </string>
+  <string translate="1" segmentID="4" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_last_mySuffix</SID>
+    <value><![CDATA[last]]></value>
+  </string>
 </resources>

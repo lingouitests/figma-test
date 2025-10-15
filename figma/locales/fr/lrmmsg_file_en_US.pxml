@@ -4,24 +4,18 @@
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>start</SID>
-    <value><![CDATA[start]]></value>
+    <value><![CDATA[démarrer]]></value>
   </string>
   <string translate="1" segmentID="2" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>myPrefix_goon_mySuffix</SID>
-    <value><![CDATA[go on]]></value>
+    <value><![CDATA[continuer]]></value>
   </string>
   <string translate="1" segmentID="3" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>myPrefix_next_mySuffix</SID>
-    <value><![CDATA[next]]></value>
-  </string>
-  <string translate="1" segmentID="4" minLength="" maxLength="">
-    <lrm_incontext></lrm_incontext>
-    <llm_prompt></llm_prompt>
-    <SID>myPrefix_last_mySuffix</SID>
-    <value><![CDATA[last]]></value>
+    <value><![CDATA[suivant]]></value>
   </string>
 </resources>
