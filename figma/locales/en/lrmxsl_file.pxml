@@ -12,4 +12,10 @@
     <SID>myPrefix_goon_mySuffix</SID>
     <value><![CDATA[go on]]></value>
   </string>
+  <string translate="1" segmentID="3" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_next_mySuffix</SID>
+    <value><![CDATA[next]]></value>
+  </string>
 </resources>
