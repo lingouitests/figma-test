@@ -72,4 +72,34 @@
     <SID>myPrefix_qwe_mySuffix</SID>
     <value><![CDATA[qwe]]></value>
   </string>
+  <string translate="1" segmentID="13" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_zxc_999</SID>
+    <value><![CDATA[zxc]]></value>
+  </string>
+  <string translate="1" segmentID="14" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_zxc222_999</SID>
+    <value><![CDATA[zxc222]]></value>
+  </string>
+  <string translate="1" segmentID="15" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_slide_999</SID>
+    <value><![CDATA[slide]]></value>
+  </string>
+  <string translate="1" segmentID="16" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_987_99987</SID>
+    <value><![CDATA[987]]></value>
+  </string>
+  <string translate="1" segmentID="17" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_try2_99987</SID>
+    <value><![CDATA[try2]]></value>
+  </string>
 </resources>
