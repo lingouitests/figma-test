@@ -24,10 +24,20 @@
   "nodeID":"node_id.94:25",
   "lastChanged":1760613485
 },{
+  "key":"counter_one_99987",
+  "value":"one",
+  "nodeID":"node_id.103:4",
+  "lastChanged":1760616304
+},{
   "key":"myPrefix_987_99987",
   "value":"987",
   "nodeID":"node_id.96:28",
   "lastChanged":1760614051
+},{
+  "key":"counter_two_99988",
+  "value":"two",
+  "nodeID":"node_id.103:5",
+  "lastChanged":1760616304
 },{
   "key":"myPrefix_addingne_mySuffix",
   "value":"adding new string",
