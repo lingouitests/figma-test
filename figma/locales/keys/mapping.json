@@ -38,4 +38,9 @@
   "value":"time",
   "nodeID":"node_id.74:4",
   "lastChanged":1760529410
+},{
+  "key":"myPrefix_book5_mySuffix",
+  "value":"book 5",
+  "nodeID":"node_id.86:3",
+  "lastChanged":1760605191
 }]
