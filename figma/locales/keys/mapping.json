@@ -1,4 +1,9 @@
 [{
+  "key":"myPrefix_qwe_mySuffix",
+  "value":"qwe",
+  "nodeID":"node_id.92:24",
+  "lastChanged":1760608091
+},{
   "key":"myPrefix_addingne_mySuffix",
   "value":"adding new string",
   "nodeID":"node_id.88:22",
