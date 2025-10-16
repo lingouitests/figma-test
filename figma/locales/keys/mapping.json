@@ -14,6 +14,11 @@
   "nodeID":"node_id.96:29",
   "lastChanged":1760614088
 },{
+  "key":"counter_three_99987",
+  "value":"three",
+  "nodeID":"node_id.103:6",
+  "lastChanged":1760616320
+},{
   "key":"myPrefix_qwe_mySuffix",
   "value":"qwe",
   "nodeID":"node_id.92:24",
