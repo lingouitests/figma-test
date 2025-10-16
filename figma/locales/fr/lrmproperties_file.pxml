@@ -18,4 +18,34 @@
     <SID>myPrefix_next_mySuffix</SID>
     <value><![CDATA[suivant]]></value>
   </string>
+  <string translate="1" segmentID="4" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_last_mySuffix</SID>
+    <value><![CDATA[dernier]]></value>
+  </string>
+  <string translate="1" segmentID="5" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_time_mySuffix</SID>
+    <value><![CDATA[temps]]></value>
+  </string>
+  <string translate="1" segmentID="6" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_111_mySuffix</SID>
+    <value><![CDATA[111]]></value>
+  </string>
+  <string translate="1" segmentID="7" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_222_mySuffix</SID>
+    <value><![CDATA[222]]></value>
+  </string>
+  <string translate="1" segmentID="8" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_title2_mySuffix</SID>
+    <value><![CDATA[titre 2]]></value>
+  </string>
 </resources>

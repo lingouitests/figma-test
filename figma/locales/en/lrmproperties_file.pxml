@@ -24,4 +24,34 @@
     <SID>myPrefix_last_mySuffix</SID>
     <value><![CDATA[last]]></value>
   </string>
+  <string translate="1" segmentID="5" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_time_mySuffix</SID>
+    <value><![CDATA[time]]></value>
+  </string>
+  <string translate="1" segmentID="6" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_111_mySuffix</SID>
+    <value><![CDATA[111]]></value>
+  </string>
+  <string translate="1" segmentID="7" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_222_mySuffix</SID>
+    <value><![CDATA[222]]></value>
+  </string>
+  <string translate="1" segmentID="8" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_title2_mySuffix</SID>
+    <value><![CDATA[title2]]></value>
+  </string>
+  <string translate="1" segmentID="9" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_book5_mySuffix</SID>
+    <value><![CDATA[book 5]]></value>
+  </string>
 </resources>

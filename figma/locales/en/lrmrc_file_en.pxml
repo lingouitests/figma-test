@@ -48,4 +48,10 @@
     <SID>myPrefix_title2_mySuffix</SID>
     <value><![CDATA[title2]]></value>
   </string>
+  <string translate="1" segmentID="9" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_book5_mySuffix</SID>
+    <value><![CDATA[book 5]]></value>
+  </string>
 </resources>
