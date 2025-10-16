@@ -93,13 +93,85 @@
   <string translate="1" segmentID="16" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
-    <SID>myPrefix_987_99987</SID>
-    <value><![CDATA[987]]></value>
+    <SID>myPrefix_try2_99987</SID>
+    <value><![CDATA[try2]]></value>
   </string>
   <string translate="1" segmentID="17" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
-    <SID>myPrefix_try2_99987</SID>
-    <value><![CDATA[try2]]></value>
+    <SID>myPrefix_987_99987</SID>
+    <value><![CDATA[987]]></value>
+  </string>
+  <string translate="1" segmentID="18" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_658_99987</SID>
+    <value><![CDATA[658]]></value>
+  </string>
+  <string translate="1" segmentID="19" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_trwtrewtre_99987</SID>
+    <value><![CDATA[trwtrewtre]]></value>
+  </string>
+  <string translate="1" segmentID="20" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_1111111_99987</SID>
+    <value><![CDATA[1111111]]></value>
+  </string>
+  <string translate="1" segmentID="21" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>counter_one_99987</SID>
+    <value><![CDATA[one]]></value>
+  </string>
+  <string translate="1" segmentID="22" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>counter_two_99988</SID>
+    <value><![CDATA[two]]></value>
+  </string>
+  <string translate="1" segmentID="23" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>counter_three_99987</SID>
+    <value><![CDATA[three]]></value>
+  </string>
+  <string translate="1" segmentID="24" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>counter_five_99987</SID>
+    <value><![CDATA[five]]></value>
+  </string>
+  <string translate="1" segmentID="25" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>counter_six_99988</SID>
+    <value><![CDATA[six]]></value>
+  </string>
+  <string translate="1" segmentID="26" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>counter_seven_99989</SID>
+    <value><![CDATA[seven]]></value>
+  </string>
+  <string translate="1" segmentID="27" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>counter_nine_99990</SID>
+    <value><![CDATA[nine]]></value>
+  </string>
+  <string translate="1" segmentID="28" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>counter_ten_99991</SID>
+    <value><![CDATA[ten]]></value>
+  </string>
+  <string translate="1" segmentID="29" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>counter_eight_99992</SID>
+    <value><![CDATA[eight]]></value>
   </string>
 </resources>
