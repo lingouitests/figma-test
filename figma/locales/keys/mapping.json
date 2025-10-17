@@ -129,6 +129,11 @@
   "nodeID":"node_id.103:10",
   "lastChanged":1760616434
 },{
+  "key":"counter_brr_99987",
+  "value":"brr",
+  "nodeID":"node_id.109:3",
+  "lastChanged":1760689857
+},{
   "key":"myPrefix_111_mySuffix",
   "value":"111",
   "nodeID":"node_id.77:12",
