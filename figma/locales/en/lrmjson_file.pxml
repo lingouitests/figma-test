@@ -192,4 +192,10 @@
     <SID>counter_789456_99987</SID>
     <value><![CDATA[789456]]></value>
   </string>
+  <string translate="1" segmentID="33" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>counter_brr_99987</SID>
+    <value><![CDATA[brr]]></value>
+  </string>
 </resources>

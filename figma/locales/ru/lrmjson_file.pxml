@@ -4,31 +4,31 @@
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>start</SID>
-    <value><![CDATA[démarrer]]></value>
+    <value><![CDATA[начните]]></value>
   </string>
   <string translate="1" segmentID="2" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>myPrefix_goon_mySuffix</SID>
-    <value><![CDATA[continuer]]></value>
+    <value><![CDATA[продолжай]]></value>
   </string>
   <string translate="1" segmentID="3" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>myPrefix_next_mySuffix</SID>
-    <value><![CDATA[suivant]]></value>
+    <value><![CDATA[следующий]]></value>
   </string>
   <string translate="1" segmentID="4" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>myPrefix_last_mySuffix</SID>
-    <value><![CDATA[dernier]]></value>
+    <value><![CDATA[последний]]></value>
   </string>
   <string translate="1" segmentID="5" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>myPrefix_time_mySuffix</SID>
-    <value><![CDATA[temps]]></value>
+    <value><![CDATA[время]]></value>
   </string>
   <string translate="1" segmentID="6" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
@@ -46,45 +46,51 @@
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>myPrefix_title2_mySuffix</SID>
-    <value><![CDATA[titre 2]]></value>
+    <value><![CDATA[название 2]]></value>
   </string>
   <string translate="1" segmentID="9" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>myPrefix_book5_mySuffix</SID>
-    <value><![CDATA[livre 5]]></value>
+    <value><![CDATA[книга 5]]></value>
   </string>
   <string translate="1" segmentID="10" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>myPrefix_addingne_mySuffix</SID>
-    <value><![CDATA[ajout d'une nouvelle chaîne]]></value>
+    <value><![CDATA[добавление новой строки]]></value>
   </string>
   <string translate="1" segmentID="11" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>myPrefix_blabla_mySuffix</SID>
-    <value><![CDATA[bla=bla]]></value>
+    <value><![CDATA[бла=бла]]></value>
   </string>
   <string translate="1" segmentID="12" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>myPrefix_qwe_mySuffix</SID>
-    <value><![CDATA[qwe]]></value>
+    <value><![CDATA[мы]]></value>
   </string>
   <string translate="1" segmentID="13" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
-    <SID>myPrefix_trwtrewtre_99987</SID>
-    <value><![CDATA[trwtrewtre]]></value>
+    <SID>myPrefix_slide_999</SID>
+    <value><![CDATA[слайд]]></value>
   </string>
   <string translate="1" segmentID="14" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_trwtrewtre_99987</SID>
+    <value><![CDATA[траретрия]]></value>
+  </string>
+  <string translate="1" segmentID="15" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>myPrefix_1111111_99987</SID>
     <value><![CDATA[1111111]]></value>
   </string>
-  <string translate="1" segmentID="15" minLength="" maxLength="">
+  <string translate="1" segmentID="16" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>counter_789456_99987</SID>
