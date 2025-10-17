@@ -89,6 +89,11 @@
   "nodeID":"node_id.103:11",
   "lastChanged":1760616434
 },{
+  "key":"counter_789456_99987",
+  "value":"789456",
+  "nodeID":"node_id.107:2",
+  "lastChanged":1760685578
+},{
   "key":"counter_five_99987",
   "value":"five",
   "nodeID":"node_id.103:7",

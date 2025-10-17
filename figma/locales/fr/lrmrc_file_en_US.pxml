@@ -42,4 +42,46 @@
     <SID>myPrefix_222_mySuffix</SID>
     <value><![CDATA[222]]></value>
   </string>
+  <string translate="1" segmentID="8" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_title2_mySuffix</SID>
+    <value><![CDATA[titre 2]]></value>
+  </string>
+  <string translate="1" segmentID="9" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_book5_mySuffix</SID>
+    <value><![CDATA[livre 5]]></value>
+  </string>
+  <string translate="1" segmentID="10" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_addingne_mySuffix</SID>
+    <value><![CDATA[ajout d'une nouvelle chaîne]]></value>
+  </string>
+  <string translate="1" segmentID="11" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_blabla_mySuffix</SID>
+    <value><![CDATA[bla=bla]]></value>
+  </string>
+  <string translate="1" segmentID="12" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_qwe_mySuffix</SID>
+    <value><![CDATA[qwe]]></value>
+  </string>
+  <string translate="1" segmentID="13" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_trwtrewtre_99987</SID>
+    <value><![CDATA[trwtrewtre]]></value>
+  </string>
+  <string translate="1" segmentID="14" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>myPrefix_1111111_99987</SID>
+    <value><![CDATA[1111111]]></value>
+  </string>
 </resources>
